@@ -2,7 +2,7 @@
 
 Ruby on Rails App for GLBRC
 
-Deployed to: https://morning-retreat-18329.herokuapp.com
+Deployed to: https://peter917-1.herokuapp.com/
 
 Active Users:
 
